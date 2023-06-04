@@ -1,5 +1,5 @@
 // Mengatur tanggal dan waktu tujuan countdown
-var countDownDate = new Date("2023-06-03T15:30:00").getTime();
+var countDownDate = new Date("2023-06-06T15:30:00").getTime();
 
 // Memperbarui countdown setiap detik
 var x = setInterval(function () {
